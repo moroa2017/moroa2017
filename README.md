@@ -5,4 +5,4 @@
 - I can code, but I'm not a developer. I'm more like a chef who can make a good sandwich, but don't expect a five-course meal from me!
 - An area with many private sources
 
-<img src="https://i.giphy.com/gEKz4VLX7fQlsl8SFE.webp" width="49%" />
+<img src="https://i.giphy.com/gEKz4VLX7fQlsl8SFE.webp" width="45%" />
