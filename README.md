@@ -12,7 +12,7 @@
       </a>
       <br>
       <a href="https://steamcommunity.com/id/moroa/">
-        <img src="http://silversnow.kr:7894/39340987" />
+        <img src="https://steam-miniprofile-svg.vercel.app/39340987" />
       </a>
     </td>
   </tr>
