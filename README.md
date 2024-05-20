@@ -3,7 +3,7 @@
 <a href="https://discord.com/users/219817341196828673">
   <img align="right" src="https://lanyard-profile-readme.vercel.app/api/219817341196828673?bg=00000000" />
 </a>
-<a href="https://discord.com/users/219817341196828673">
+<a href="https://steamcommunity.com/id/moroa/">
   <img align="right" src="http://silversnow.kr:7984/39340987" />
 </a>
 
