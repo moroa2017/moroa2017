@@ -19,5 +19,5 @@
 </table>
 
 <p align="center">
-  <img src="https://i.giphy.com/gEKz4VLX7fQlsl8SFE.webp" width="55%" />
+  <img src="https://i.giphy.com/gEKz4VLX7fQlsl8SFE.webp" width="45%" />
 </p>
