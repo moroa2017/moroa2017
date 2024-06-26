@@ -12,7 +12,7 @@
       </a>
       <br>
       <a href="https://steamcommunity.com/id/moroa/">
-        <img src="https://api.moroa.kro.kr/76561197999606715" onerror="this.onerror=null; this.src='./steam.svg';" width="100%" />
+        <img src="https://api.moroa.kro.kr/76561197999606715" onerror="this.onerror=null; this.src='steam.svg';" width="100%" />
       </a>
     </td>
   </tr>
