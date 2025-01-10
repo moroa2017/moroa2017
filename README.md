@@ -10,10 +10,7 @@
       <a href="https://discord.com/users/219817341196828673">
         <img src="https://lanyard-profile-readme.vercel.app/api/219817341196828673?bg=00000000" width="100%" />
       </a>
-      <br>
-      <a href="https://steamcommunity.com/id/moroa/">
-        <img src="https://api.moroa.kro.kr/76561197999606715" onerror="this.onerror=null; this.src='steam.svg';" width="100%" />
-      </a>
+      <br>      
     </td>
   </tr>
 </table>
